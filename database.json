@@ -1,0 +1,41 @@
+{
+  "panels": {
+    "development": {
+      "channelId": "1466888486908072027",
+      "description": "d",
+      "title": "d",
+      "script": "x",
+      "requiredRole": "1404029165497221204",
+      "messageId": "1466888847018299528",
+      "status": "active"
+    }
+  },
+  "redeemCodes": {},
+  "userKeys": {},
+  "hwids": {},
+  "premiumBuyers": {
+    "1261619307683643415": {
+      "userId": "1261619307683643415",
+      "addedDate": 1769804089308,
+      "lifetime": false,
+      "autoRenew": false,
+      "expired": false,
+      "grantedBy": "tc_comunity",
+      "lastUpdate": 1769804089308,
+      "expiryDate": 1770408889308
+    }
+  },
+  "partnerRequests": {},
+  "partnerConfig": {},
+  "developmentKeys": {
+    "DEV-ML1BOU73-85KZTU": {
+      "role": "gas",
+      "playerId": "1261619307683643415",
+      "unlimited": false,
+      "used": false,
+      "usedBy": null,
+      "createdAt": 1769804139999,
+      "createdBy": "1261619307683643415"
+    }
+  }
+}
